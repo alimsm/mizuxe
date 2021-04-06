@@ -1,0 +1,85 @@
+
+
+html{
+  scroll-behavior: smooth;
+}
+nav.navbar{
+  background: #fff;
+  opacity: 0.7;
+  position: sticky;
+  top: 0;
+  box-shadow: 0 3px 5px #3292A6;
+  z-index: 1;
+}
+.navbar a{
+  font-size: 18px;
+}
+#main-section{
+  background: linear-gradient(rgba(50, 146, 166, 0.7),rgba(50, 146, 166, 0.7)),url('../img/mountains.jpg');
+  background-position: center center;
+
+}
+#main-section{padding: 200px 0;}
+#be-better .card.a-1{
+  background:#3292A6;
+  color:#fff;
+}
+#be-better .card.a-1:hover{
+  background: #fff;
+  color:#333;
+}
+
+#be-better .card.a-2:hover{
+  background:#3292A6;
+  color:#fff;
+}
+#be-better .card.a-3{
+  background:#3292A6;
+  color:#fff;
+}
+#be-better .card.a-3:hover{
+  background:#fff;
+  color:#333;
+}
+
+#be-better .card.a-4:hover{
+  background: #3292A6;
+  color:#fff;
+}
+a.fw-bold{
+  font-size: 30px;
+}
+#about{
+  text-align: center;
+}
+#about .book h2{
+  color:#3292A6;
+}
+#author h2.meet{
+  color:#3292A6;
+}
+#author img{
+  width: 100px;
+  height: auto;
+  margin-top: -60px;
+}
+#author .author-margin{
+  margin-top: 70px;
+}
+#author ul li a{
+  font-size: 22px;
+  color:#3292A6;
+}
+#author .a-5:hover{
+  background: #3292A6;
+  color:#fff;
+}
+#author .a-5:hover a{
+  color:#fff;
+}
+#contact h2.mt-0-1{
+  color: #3292A6;
+}
+footer{
+  background:#3292A6; 
+}
